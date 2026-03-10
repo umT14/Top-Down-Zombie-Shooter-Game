@@ -1,0 +1,2 @@
+wavenumber: 0000000000
+totalscore: 0000011710
